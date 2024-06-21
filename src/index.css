@@ -1,0 +1,19 @@
+button {
+  background-color: aliceblue ;
+  border: 1px solid rgb(168, 206, 240);
+  margin: 2px;
+}
+button:hover {
+  background-color: rgb(203, 220, 235);
+}
+p {
+  color: blue;
+
+}
+input{
+  border: 1px solid rgb(168, 206, 240);
+  width: 76px;
+ outline: none;
+}
+
+
